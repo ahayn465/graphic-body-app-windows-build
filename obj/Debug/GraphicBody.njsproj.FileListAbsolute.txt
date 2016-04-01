@@ -1,0 +1,2 @@
+C:\Users\CLane\Sites\electron-quick-start\obj\Debug\GraphicBody.njsprojResolveAssemblyReference.cache
+C:\Users\CLane\Sites\electron-quick-start\bin\Microsoft.NodejsTools.WebRole.dll
